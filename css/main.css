@@ -1,0 +1,25 @@
+.slide-header{
+    background-color:blueviolet;
+    color:white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.slide-herder-content{
+    margin: 10px;
+    
+}
+.img-pic
+{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    box-shadow: aqua 2px 5px 5px;
+}
+body
+{
+    margin: 0;
+}
